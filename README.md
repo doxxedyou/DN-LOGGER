@@ -1,4 +1,4 @@
-INTRO
+
 An Advance Discord Generator Written in python It can generate nearly fully verified tokens
 
 HOW TO USE THIS.
